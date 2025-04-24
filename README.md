@@ -40,7 +40,7 @@ batcha.html
 <meta charset='utf-8'>
 <meta http-equiv='X-UA-Compatible' content='IE=edge'>
 <title>Surface Area of Right Cylinder</title>
-<title>HARIHARAN A(212223110013)</title>
+<title>RITHVIK S (212223100045)</title>
 <meta name='viewport' content='width=device-width, initial-scale=1'>
 <style type="text/css">
 body
@@ -79,10 +79,9 @@ padding-top: 20px;
 <body>
 <div class="edge">
 <div class="box">
- HARIHARAN A (212223110013)
+ RITHVIK S (212223100045)
 <h1>Surface Area of Right Cylinder</h1>
 <form method="POST">
-{% csrf_token %}
 <div class="formelt">
 Radius : <input type="text" name="radius" value="{{r}}"></input>(in m)<br/>
 </div>
